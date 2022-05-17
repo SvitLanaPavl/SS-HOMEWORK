@@ -1,0 +1,280 @@
+
+body {
+   
+    font-family: "Montserrat";
+    
+
+}
+
+header {
+    display: flex;
+    width: 100%;
+    height: 10%;
+    justify-items: space-between;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+header #logo {
+    width: 8%;
+    margin: 7px;
+    margin-top: 12px;
+}
+
+header #logo img {
+    width: 100%;
+    height: 65%;
+    margin-left: 5px;
+}
+header nav {
+    width: 55%;
+    justify-items: flex-start;
+    
+    align-content: center;
+
+}
+
+header nav ul {
+    display: flex;
+    list-style: none;
+    padding-left: 6.5%;
+    
+}
+
+header nav ul li a {
+    text-decoration: none;
+    margin-right: 20px;
+    text-transform: uppercase;
+    color: #000000;
+    font-size: 0.8rem;
+    
+
+}
+
+header #button {
+    width: 30%;
+    height: 50px;
+   padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    
+}
+
+
+header #button button {
+    font-family: "Montserrat";
+    text-transform: uppercase;
+    background-color: #079FD0;
+    border: 1px solid #079FD0;
+    color: #FFFFFF;
+    border-radius: 4px;
+    height: 100%;
+    width: 40%;
+   
+}
+
+section.banner {
+    height: 80%;
+    width: 100%;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.promo {
+    height: 100%;
+    width: 75%;
+    background-color: #C4C4C4AD;
+    padding: 40px;
+}
+
+.promo h1 {
+    color: #000000;
+    font-size: 17.5rem;
+    margin: 0;
+    margin-left: 85px;
+    font-weight: 300;
+}
+
+.promo h2 {
+    text-transform: uppercase;
+    font-size: 2.5rem;
+    color: #FFFFFF;
+    margin-left: 85px;
+    margin-top: 0;
+    font-weight: 300;
+}
+
+.promo p {
+    color: #FFFFFF;
+    width: 20%;
+    font-size: 1.2rem;
+    margin-left: 85px;
+    font-weight: 300;
+}
+img.photo-promo {
+    position: absolute;
+    height: 415px;
+    width: 635px;
+    top: 190px;
+    right: 40px;
+}
+
+i.right-arrow {
+    border: solid #079FD0;
+  border-width: 0 1px 1px 0;
+  display: inline-block;
+  padding: 3px;
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+
+}
+.block {
+    display: flex;
+    margin-top: 5%; 
+}
+
+.main-details {
+    width: 50%;
+}
+
+.main-details img {
+width: 100%;
+}
+
+.text-block {
+  width: 55%;
+  margin-left: 15%;
+ 
+   
+}
+
+.text-block h2 {
+    font-size: 2.2rem;
+    color: #079FD0;
+    margin-top: 0; 
+    font-weight: 300;
+}
+
+.text-block p {
+    font-size: 1.4rem;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    
+}
+
+.text-block a {
+    text-transform: uppercase;
+    color: #079FD0; 
+    font-size: 0.9rem;
+    
+}
+
+.text-block i {
+    color: #079FD0;
+    margin-bottom: 2px; 
+    margin-left: 5px; 
+}
+.info-blocks {
+    display: flex;
+    justify-content: space-between;
+}
+
+.features {
+    width: 30%;
+}
+
+.features img {
+    width: 100%;
+    height: 60%;
+}
+
+.addition {
+    margin-top: 3%;
+    margin-bottom: 3%;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 3%;
+}
+
+.title h2 {
+    color: #079FD0; 
+    font-size: 2.2rem;
+    font-weight: 300;
+    font-weight: 300;
+}
+
+.feature-text {
+    width: 70%;
+    
+}
+
+.feature-text a  {
+    color: #079FD0;
+    text-transform: uppercase;
+    font-size: 0.9rem;
+    
+      
+}
+
+.feature-text h3 {
+    font-size: 1.5rem;
+    color: #079FD0;
+    font-weight: 300;
+}
+
+.feature-text p {
+    line-height: 30px;
+}
+
+footer {
+    width: 100%;
+    height: 200px;
+    background-color: #C4C4C433;
+    color: #000000;
+    margin-top: 5%;
+    display: flex;
+    padding-top: 3%;
+    padding-left: 2%;
+    margin-left: 0;
+}
+
+.f-section {
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+}
+
+.f-section a {
+    color: #000000;
+    text-decoration: none;
+    margin-bottom: 13px;
+    
+}
+
+.f-section a img {
+    width: 70%;
+}
+
+.f-section p {
+    margin-top: 0;
+    font-weight: 600;
+}
+

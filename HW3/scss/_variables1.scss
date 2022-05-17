@@ -1,0 +1,50 @@
+//fonts
+$fontFamily1: 'Source Sans Pro', sans-serif;
+$fontFamily2: 'Hind', sans-serif;
+$fontFamily3: 'Fresca', sans-serif;
+
+
+//colors
+$contentBackground: #fff;
+$colorBanner: ivory;
+$footerColor: rgb(104, 150, 241);
+
+
+//borders
+$borderRadius: 0px 50% 50% 0px;
+
+
+//height-width
+$height: 1000px;
+$fullWidth: 100%;
+$Zerro: 0;
+
+
+//mixins
+@mixin flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@mixin font2 {
+    font-family: $fontFamily2;
+    font-weight: lighter;
+    font-size: 2.5rem;
+}
+
+@mixin font2-lighter {
+    font-family: $fontFamily2;
+    font-weight: lighter;
+    font-size: 1.5rem;  
+}
+
+@mixin zero {
+    margin: 0;
+    padding: 0;
+}
+
+@mixin footer-margin {
+    margin: 10px;
+    padding: 10px;
+}
