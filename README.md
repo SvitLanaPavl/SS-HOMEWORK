@@ -9,3 +9,5 @@ HW2: The main goal was to improve the page by only using the given attributes (n
 HW3: In this section the main goal was to master SASS and use Koala to synchronize changes. I had to use variables and @mixins to re-use data effectively.
 
 HW4: Again, my goal was to polish the use of CSS; however, this homework was dedicated to responsive design. Besdies, I was supposed to utilize Pixel Perfect Extension in order to maximize the resemblance of my page with the template design.
+
+HW5: This homework is designed to improve using CSS, pseudo classes, flexbox and grid, responsive design, as well as play with various UI techniques.
