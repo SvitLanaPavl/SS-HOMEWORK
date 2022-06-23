@@ -11,3 +11,5 @@ HW3: In this section the main goal was to master SASS and use Koala to synchroni
 HW4: Again, my goal was to polish the use of CSS; however, this homework was dedicated to responsive design. Besdies, I was supposed to utilize Pixel Perfect Extension in order to maximize the resemblance of my page with the template design.
 
 HW5: This homework is designed to improve using CSS, pseudo classes, flexbox and grid, responsive design, as well as play with various UI techniques.
+
+HW6: This self-study was focused on the use of Bootstrap. 98% of the cases were bootstrap classes, so the use of CSS was minimum (only to set the background image and font family).
