@@ -13,3 +13,5 @@ HW4: Again, my goal was to polish the use of CSS; however, this homework was ded
 HW5: This homework is designed to improve using CSS, pseudo classes, flexbox and grid, responsive design, as well as play with various UI techniques.
 
 HW6: This self-study was focused on the use of Bootstrap. 98% of the cases were bootstrap classes, so the use of CSS was minimum (only to set the background image and font family).
+
+HW7: In this section, the major goal was to use Javascript in order to create a casino game with inputing numbers that would match the randomly generated numbers. Following certain conditions, the users might either get or fail to get the prize. 
